@@ -1,5 +1,5 @@
+'##allowempty##';
 // Eligible conditions for everyone
-
 // BMI <40
 var bmi = 0;
 if({self_bmi} < 40){
@@ -7,6 +7,15 @@ if({self_bmi} < 40){
 }
 else{
     bmi += 0
+};
+
+// Pregnant and breastfeeding is none
+var preg_or_brstf = 0;
+if ({sex} != 0 && {pregbrstfeed} == 1){
+ preg_or_brstf = 0;
+}
+else {
+preg_or_brstf = 1;
 };
 
 // Calccageaid = No
@@ -38,7 +47,7 @@ else{
 
 // Medication
 var medi = 0;
-if ({meds01} == 0){
+if ('{meds01}' == 0){
     medi += 1;
 }
 else{
@@ -57,7 +66,7 @@ else{
 
 var eligible_participation = 0;
 
-if(bmi + cageaid + phd2 + gmh_dia + medi + gmh_covid == 6){
+if(bmi + preg_or_brstf + cageaid + phd2 + gmh_dia + medi + gmh_covid == 7){
     eligible_participation += 1;
 }
 else{
@@ -65,4 +74,3 @@ else{
 };
 
 eligible_participation;
-
