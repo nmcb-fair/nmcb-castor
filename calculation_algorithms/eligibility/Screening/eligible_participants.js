@@ -38,7 +38,7 @@ else{
 
 // GMH Diagnosis
 var gmh_dia = 0;
-if ({gmh_diagnosis02} == 0){
+if ('{gmh_diagnosis02}' == 0){
     gmh_dia += 1;
 }
 else{

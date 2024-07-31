@@ -1,0 +1,2342 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <crf_id>2B1B2B35-F7B9-48BE-906D-9CA8885CE68B</crf_id>
+  <optionLists>
+    <og_896C5302-B716-43C0-82B8-B5FACF1D6E23 form_sync_id="8B9ABE28-EDE1-4065-982D-0A4B6629757E">
+      <option_group_id>896C5302-B716-43C0-82B8-B5FACF1D6E23</option_group_id>
+      <option_group_name>inclusion_diagnoses</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_E12039F0-E6BF-40B2-BD76-354942D86F2C form_sync_id="4A3A6757-0864-4E99-B165-4D1E56AA4D96">
+          <option_id>E12039F0-E6BF-40B2-BD76-354942D86F2C</option_id>
+          <option_group_id>896C5302-B716-43C0-82B8-B5FACF1D6E23</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Geen van onderstaande</option_name>
+          <option_value>0</option_value>
+        </op_E12039F0-E6BF-40B2-BD76-354942D86F2C>
+        <op_D07B5117-ADFA-49C4-95A6-C42F261B9452 form_sync_id="3A12922D-2BFA-47A9-8535-B77F7BE35BEA">
+          <option_id>D07B5117-ADFA-49C4-95A6-C42F261B9452</option_id>
+          <option_group_id>896C5302-B716-43C0-82B8-B5FACF1D6E23</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>A04.01: chronisch vermoeidheidssyndroom (ME/CVS)</option_name>
+          <option_value>1</option_value>
+        </op_D07B5117-ADFA-49C4-95A6-C42F261B9452>
+        <op_BD746050-4E4B-4AE3-9E12-EEAE392B08D5 form_sync_id="012C4D67-3EBD-4014-96E8-6F6AD68F53C5">
+          <option_id>BD746050-4E4B-4AE3-9E12-EEAE392B08D5</option_id>
+          <option_group_id>896C5302-B716-43C0-82B8-B5FACF1D6E23</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>N86: Multiple Sclerose</option_name>
+          <option_value>2</option_value>
+        </op_BD746050-4E4B-4AE3-9E12-EEAE392B08D5>
+        <op_8EE46326-B5B0-49CF-9AF3-546FD7E6C7B1 form_sync_id="E9B8FBD2-6E51-4D9A-B3FC-4FFFEC7C154B">
+          <option_id>8EE46326-B5B0-49CF-9AF3-546FD7E6C7B1</option_id>
+          <option_group_id>896C5302-B716-43C0-82B8-B5FACF1D6E23</option_group_id>
+          <option_group_order>3</option_group_order>
+          <option_name>Q-koortsvermoeidheidssyndroom</option_name>
+          <option_value>3</option_value>
+        </op_8EE46326-B5B0-49CF-9AF3-546FD7E6C7B1>
+        <op_B82437E0-43A4-4C5A-95E7-350BCAA740D7 form_sync_id="A5794B68-C47D-46DA-A035-3B110C2CDDAC">
+          <option_id>B82437E0-43A4-4C5A-95E7-350BCAA740D7</option_id>
+          <option_group_id>896C5302-B716-43C0-82B8-B5FACF1D6E23</option_group_id>
+          <option_group_order>4</option_group_order>
+          <option_name>Post-behandelingssyndroom van de ziekte van Lyme, bij Borreliose/Lyme</option_name>
+          <option_value>4</option_value>
+        </op_B82437E0-43A4-4C5A-95E7-350BCAA740D7>
+        <op_1756ABFA-F459-47AB-ADC2-406BE1F2FB74 form_sync_id="B587B476-8A3A-4E00-9F47-BA69A0E33435">
+          <option_id>1756ABFA-F459-47AB-ADC2-406BE1F2FB74</option_id>
+          <option_group_id>896C5302-B716-43C0-82B8-B5FACF1D6E23</option_group_id>
+          <option_group_order>5</option_group_order>
+          <option_name>R83.04: langdurige COVID-19 (Long COVID), bij SARS-CoV-2 (COVID-19) R83.03</option_name>
+          <option_value>5</option_value>
+        </op_1756ABFA-F459-47AB-ADC2-406BE1F2FB74>
+      </options>
+    </og_896C5302-B716-43C0-82B8-B5FACF1D6E23>
+    <og_CB9A3CA7-F063-450D-96D3-C7E35DEB137E form_sync_id="B34A6276-85FC-47C3-B5FA-5F7EDF19129C">
+      <option_group_id>CB9A3CA7-F063-450D-96D3-C7E35DEB137E</option_group_id>
+      <option_group_name>gp_diagnosis_who</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_9AA7D1E7-CA50-4C65-9E09-4871CC44B504 form_sync_id="91878428-6BFF-4541-9B6C-F02168393386">
+          <option_id>9AA7D1E7-CA50-4C65-9E09-4871CC44B504</option_id>
+          <option_group_id>CB9A3CA7-F063-450D-96D3-C7E35DEB137E</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Door mijzelf</option_name>
+          <option_value>1</option_value>
+        </op_9AA7D1E7-CA50-4C65-9E09-4871CC44B504>
+        <op_D2A28411-18C0-4A13-9B78-14EFBD6C714D form_sync_id="5333EB8B-E678-4E06-AB72-6E863AF330EB">
+          <option_id>D2A28411-18C0-4A13-9B78-14EFBD6C714D</option_id>
+          <option_group_id>CB9A3CA7-F063-450D-96D3-C7E35DEB137E</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>Door andere arts</option_name>
+          <option_value>2</option_value>
+        </op_D2A28411-18C0-4A13-9B78-14EFBD6C714D>
+      </options>
+    </og_CB9A3CA7-F063-450D-96D3-C7E35DEB137E>
+    <og_453FF7E9-369E-4867-8379-BA522D71CA43 form_sync_id="518411A2-1815-4D99-BC22-71AD93914CAF">
+      <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+      <option_group_name>exclusion_diagnoses</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_B9B7D929-9973-44CC-81A7-5A572917AC55 form_sync_id="AFFF771F-B023-402D-8EB9-AA376A7F4B80">
+          <option_id>B9B7D929-9973-44CC-81A7-5A572917AC55</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Geen van onderstaande</option_name>
+          <option_value>0</option_value>
+        </op_B9B7D929-9973-44CC-81A7-5A572917AC55>
+        <op_2D173F2F-4DEC-4ACD-94A9-20A36458AF51 form_sync_id="74CB85B4-A0A6-4273-9D6B-A76A3261E361">
+          <option_id>2D173F2F-4DEC-4ACD-94A9-20A36458AF51</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>Immuungecompromitteerde toestand: A87.02 Transplantie, B90 HIV, T99.01 een immuundeficiëntie</option_name>
+          <option_value>1</option_value>
+        </op_2D173F2F-4DEC-4ACD-94A9-20A36458AF51>
+        <op_B758FD1E-B2B9-46F8-9EC8-B8A78E61161B form_sync_id="944724CC-F65D-4F1B-861E-21A6DE819AA8">
+          <option_id>B758FD1E-B2B9-46F8-9EC8-B8A78E61161B</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>Reumatologische ziekte: L88.01 Reumatoïde artritis, L88.02 Morbus Bechterew (spondylitis ankylopoetica)</option_name>
+          <option_value>2</option_value>
+        </op_B758FD1E-B2B9-46F8-9EC8-B8A78E61161B>
+        <op_F84D814A-54E3-447E-8136-D42A92018A35 form_sync_id="B34CD0BD-35BB-4BCE-8B20-22E8BF7DFF14">
+          <option_id>F84D814A-54E3-447E-8136-D42A92018A35</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>3</option_group_order>
+          <option_name>Auto-immuunziekte: L88 of L99 Lupus, L99 of F99 Syndroom van Sjögren, N94.01 Syndroom van Guillain-Barre, N99.02 Myasthena gravis</option_name>
+          <option_value>3</option_value>
+        </op_F84D814A-54E3-447E-8136-D42A92018A35>
+        <op_139FF1C3-012A-4230-9FCD-F5004272D717 form_sync_id="F5C891A9-493F-4DDE-9941-BC8C050D92CA">
+          <option_id>139FF1C3-012A-4230-9FCD-F5004272D717</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>4</option_group_order>
+          <option_name>Bindweefselziekte: B99.02 Sarcoïdose</option_name>
+          <option_value>4</option_value>
+        </op_139FF1C3-012A-4230-9FCD-F5004272D717>
+        <op_6E5C7589-4B69-44FC-91BA-154498648B40 form_sync_id="09C3430D-918B-4411-BB1C-5A42E7F315C6">
+          <option_id>6E5C7589-4B69-44FC-91BA-154498648B40</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>5</option_group_order>
+          <option_name>Inflammatoire darmziekte: D94.02 M. Crohn,  D94.01 Colitis ulcerosa</option_name>
+          <option_value>5</option_value>
+        </op_6E5C7589-4B69-44FC-91BA-154498648B40>
+        <op_4B6F3F6F-2382-45FA-8353-869B2116F8DB form_sync_id="78D5F7D3-B34F-405D-A8D0-9123C42F3F8E">
+          <option_id>4B6F3F6F-2382-45FA-8353-869B2116F8DB</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>6</option_group_order>
+          <option_name>Actieve ziekte van Graves (overactieve schildklier): T85</option_name>
+          <option_value>6</option_value>
+        </op_4B6F3F6F-2382-45FA-8353-869B2116F8DB>
+        <op_EC1AB1EF-476B-4202-99FE-48E2BB5ABA7C form_sync_id="7C622214-64CD-4053-A30B-E4AAF2E72E32">
+          <option_id>EC1AB1EF-476B-4202-99FE-48E2BB5ABA7C</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>7</option_group_order>
+          <option_name>Actieve ziekte van Hashimoto (traag werkende schildklier): T99.02</option_name>
+          <option_value>7</option_value>
+        </op_EC1AB1EF-476B-4202-99FE-48E2BB5ABA7C>
+        <op_A4877F19-0769-46C0-8B73-5D7E71B5166D form_sync_id="D15B2E44-F10A-493C-8BD5-FD911D7E4B29">
+          <option_id>A4877F19-0769-46C0-8B73-5D7E71B5166D</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>8</option_group_order>
+          <option_name>Fibromyalgie: L18.01</option_name>
+          <option_value>8</option_value>
+        </op_A4877F19-0769-46C0-8B73-5D7E71B5166D>
+        <op_8F3A2DE8-AC76-4123-A5A2-EB9BB1AD7BF3 form_sync_id="386EB1EA-CD36-4AB0-A418-23695ADCD7AF">
+          <option_id>8F3A2DE8-AC76-4123-A5A2-EB9BB1AD7BF3</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>9</option_group_order>
+          <option_name>Huidige kanker of lopende kankerbehandeling: D74, D76, T71, U76, Y77, A79, D75, U75, U77, B74, R84, N74, Y78, R85, S77, D77, T73, L71, K72, N76, U79 of L71</option_name>
+          <option_value>9</option_value>
+        </op_8F3A2DE8-AC76-4123-A5A2-EB9BB1AD7BF3>
+        <op_01483839-24C6-4E55-ACB2-B3A8BD27119A form_sync_id="3F9E5824-BEF7-410B-A636-21A12ABFA87B">
+          <option_id>01483839-24C6-4E55-ACB2-B3A8BD27119A</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>10</option_group_order>
+          <option_name>Chronische leverziekte (GEEN leververvetting): D97.04</option_name>
+          <option_value>10</option_value>
+        </op_01483839-24C6-4E55-ACB2-B3A8BD27119A>
+        <op_17908B7A-C52B-48CC-B021-E30B60B11113 form_sync_id="F68756FC-BF9E-44CA-A771-3E9C23C0490A">
+          <option_id>17908B7A-C52B-48CC-B021-E30B60B11113</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>11</option_group_order>
+          <option_name>Diabetes or suikerziekte: T90</option_name>
+          <option_value>11</option_value>
+        </op_17908B7A-C52B-48CC-B021-E30B60B11113>
+        <op_74F5E79F-CE7F-48F0-93A3-0FDD16BC02FE form_sync_id="51EE52AF-B08C-43AA-A369-5698D0E9E9AC">
+          <option_id>74F5E79F-CE7F-48F0-93A3-0FDD16BC02FE</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>12</option_group_order>
+          <option_name>Nierziekte: U88</option_name>
+          <option_value>12</option_value>
+        </op_74F5E79F-CE7F-48F0-93A3-0FDD16BC02FE>
+        <op_D48A9F3A-D1F7-4831-88A9-2C12786F7E15 form_sync_id="0A6A84A7-D1CA-44B9-AE47-638A3DD009FD">
+          <option_id>D48A9F3A-D1F7-4831-88A9-2C12786F7E15</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>13</option_group_order>
+          <option_name>Elke cardiovasculaire gebeurtenis: K77, K75, K82, K90, K89, K74 of K92.01</option_name>
+          <option_value>13</option_value>
+        </op_D48A9F3A-D1F7-4831-88A9-2C12786F7E15>
+        <op_FC86CEA6-1AF9-43E2-9416-F1057F027EC5 form_sync_id="BCCE3A94-328D-42C2-BBA1-6594A9009B68">
+          <option_id>FC86CEA6-1AF9-43E2-9416-F1057F027EC5</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>14</option_group_order>
+          <option_name>Beroerte, TIA, bloeding in de hersenen of cerebrale veneuze trombose (type bloedstolsel in de hersenen): K90</option_name>
+          <option_value>14</option_value>
+        </op_FC86CEA6-1AF9-43E2-9416-F1057F027EC5>
+        <op_3435C20A-8FE5-4C1F-A9EF-B5871907D847 form_sync_id="8B77F069-2D3D-4362-A9B8-65EDF19F50DE">
+          <option_id>3435C20A-8FE5-4C1F-A9EF-B5871907D847</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>15</option_group_order>
+          <option_name>Ademhalingsstoornis: R95 Chronische obstructieve longziekte of Emfyseem,  R91.01 Chronische bronchitis</option_name>
+          <option_value>15</option_value>
+        </op_3435C20A-8FE5-4C1F-A9EF-B5871907D847>
+        <op_B15955E1-6FC0-49DB-8551-EDAA48761C9A form_sync_id="B872B9B0-B810-43A8-9183-F967F4110C95">
+          <option_id>B15955E1-6FC0-49DB-8551-EDAA48761C9A</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>16</option_group_order>
+          <option_name>Neurologische aandoening: P70.02 Dementie, N87.01 Ziekte van Parkinson, P70.01 Ziekte van Alzheimer, N99.01 Amyotrofische laterale sclerose, N88 Epilepsie, N07 Toevallen, N99 Ziekte van Huntington, N99.03 Dystonie, N99.03 Myoclonus, N99 Chorea</option_name>
+          <option_value>16</option_value>
+        </op_B15955E1-6FC0-49DB-8551-EDAA48761C9A>
+        <op_3BA658F6-585A-414D-B4AA-722A3E2D62AA form_sync_id="4D7B92EE-0905-4C0D-A986-6AB2B077DF42">
+          <option_id>3BA658F6-585A-414D-B4AA-722A3E2D62AA</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>17</option_group_order>
+          <option_name>Actieve ernstige psychische aandoening: P73.02 Bipolaire stoornis , P73 Psychose , P72 Schizofrenie</option_name>
+          <option_value>17</option_value>
+        </op_3BA658F6-585A-414D-B4AA-722A3E2D62AA>
+        <op_5EC5FE86-BB07-4010-A047-1C0D732AD591 form_sync_id="7F3E248A-A840-4B47-A51E-D3D51C264DE6">
+          <option_id>5EC5FE86-BB07-4010-A047-1C0D732AD591</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>18</option_group_order>
+          <option_name>Infectie van het centrale zenuwstelsel (hersenen): N71 Meningitis, N71.04 Myelitis transversa, Vasculitis in het centrale zenuwstelsel</option_name>
+          <option_value>18</option_value>
+        </op_5EC5FE86-BB07-4010-A047-1C0D732AD591>
+        <op_83AC57AF-6978-47F5-8E6B-1F41E7DC8BBF form_sync_id="067604FB-7F88-42E8-98B3-24609705F656">
+          <option_id>83AC57AF-6978-47F5-8E6B-1F41E7DC8BBF</option_id>
+          <option_group_id>453FF7E9-369E-4867-8379-BA522D71CA43</option_group_id>
+          <option_group_order>19</option_group_order>
+          <option_name>Radiculopathie</option_name>
+          <option_value>19</option_value>
+        </op_83AC57AF-6978-47F5-8E6B-1F41E7DC8BBF>
+      </options>
+    </og_453FF7E9-369E-4867-8379-BA522D71CA43>
+    <og_F6FBCC29-346D-4C86-83EF-9528F2491D7D form_sync_id="E1ED0F98-E77A-4DA0-9E40-97A01DD4EA1E">
+      <option_group_id>F6FBCC29-346D-4C86-83EF-9528F2491D7D</option_group_id>
+      <option_group_name>Ja/Nee/IDK</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_98E133A8-F75D-4DD5-B3F1-4F07FE3F2A9E form_sync_id="3BF28D68-5531-439B-B7DA-79617A7F6F4F">
+          <option_id>98E133A8-F75D-4DD5-B3F1-4F07FE3F2A9E</option_id>
+          <option_group_id>F6FBCC29-346D-4C86-83EF-9528F2491D7D</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Ja</option_name>
+          <option_value>1</option_value>
+        </op_98E133A8-F75D-4DD5-B3F1-4F07FE3F2A9E>
+        <op_03639A87-8528-4069-9DE2-0A05DC508C23 form_sync_id="4BC105E9-4B84-4BDC-B7BE-7867D21B3E75">
+          <option_id>03639A87-8528-4069-9DE2-0A05DC508C23</option_id>
+          <option_group_id>F6FBCC29-346D-4C86-83EF-9528F2491D7D</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>Nee</option_name>
+          <option_value>0</option_value>
+        </op_03639A87-8528-4069-9DE2-0A05DC508C23>
+        <op_42832587-11A2-4241-B1B5-6AA389A427DB form_sync_id="292A15B4-D2B1-46A2-895B-DCD2DB5F4557">
+          <option_id>42832587-11A2-4241-B1B5-6AA389A427DB</option_id>
+          <option_group_id>F6FBCC29-346D-4C86-83EF-9528F2491D7D</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>Ik weet het niet</option_name>
+          <option_value>2</option_value>
+        </op_42832587-11A2-4241-B1B5-6AA389A427DB>
+      </options>
+    </og_F6FBCC29-346D-4C86-83EF-9528F2491D7D>
+    <og_37D34E74-46CC-40E3-A2CD-2209B2D02D08 form_sync_id="27BDD92B-5786-4B68-98C8-161D818D1A61">
+      <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+      <option_group_name>gp_meds01</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_CD2E92EE-3CE1-4B7E-8F53-F2DAFBCCFC16 form_sync_id="ACCA581B-F74F-4E3B-8EEA-425533981A4C">
+          <option_id>CD2E92EE-3CE1-4B7E-8F53-F2DAFBCCFC16</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Ze hebben de afgelopen 3 maanden geen van de onderstaande medicijnen gebruikt</option_name>
+          <option_value>0</option_value>
+        </op_CD2E92EE-3CE1-4B7E-8F53-F2DAFBCCFC16>
+        <op_9D0B6ACB-27BC-4A62-AD03-EA08EC6C7B13 form_sync_id="4E15FCFB-B644-4A9D-81E9-47BF8DDCE879">
+          <option_id>9D0B6ACB-27BC-4A62-AD03-EA08EC6C7B13</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>bloedverdunners</option_name>
+          <option_value>1</option_value>
+        </op_9D0B6ACB-27BC-4A62-AD03-EA08EC6C7B13>
+        <op_FAFE6EBD-7DE8-4AD3-8E24-6B54DAEAEE93 form_sync_id="DF27003B-CB61-4F36-AD6A-E8376BB0EB8D">
+          <option_id>FAFE6EBD-7DE8-4AD3-8E24-6B54DAEAEE93</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>antibiotica</option_name>
+          <option_value>2</option_value>
+        </op_FAFE6EBD-7DE8-4AD3-8E24-6B54DAEAEE93>
+        <op_3B2EE0F4-0F04-4965-B294-65283B9C3796 form_sync_id="E31E0B63-4926-4E71-8775-152F2B77DAB2">
+          <option_id>3B2EE0F4-0F04-4965-B294-65283B9C3796</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>3</option_group_order>
+          <option_name>antivirale middelen</option_name>
+          <option_value>3</option_value>
+        </op_3B2EE0F4-0F04-4965-B294-65283B9C3796>
+        <op_733DBBEA-1E1F-49C9-8418-9C7330EC89D6 form_sync_id="88C6D9B1-83B9-4E86-932B-A1D151A0D9F6">
+          <option_id>733DBBEA-1E1F-49C9-8418-9C7330EC89D6</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>4</option_group_order>
+          <option_name>vaccinaties</option_name>
+          <option_value>4</option_value>
+        </op_733DBBEA-1E1F-49C9-8418-9C7330EC89D6>
+        <op_1E1A55C3-D45A-4B45-B489-B06EC3A08D68 form_sync_id="43B85818-5DEE-4435-A802-2187E807EA7A">
+          <option_id>1E1A55C3-D45A-4B45-B489-B06EC3A08D68</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>5</option_group_order>
+          <option_name>pijnstillers, anders dan paracetamol</option_name>
+          <option_value>5</option_value>
+        </op_1E1A55C3-D45A-4B45-B489-B06EC3A08D68>
+        <op_798ABE70-4AE2-4548-9A24-36EEF27A10EA form_sync_id="3B83F2B2-DA6E-4CC4-9476-F52AEB6F5D38">
+          <option_id>798ABE70-4AE2-4548-9A24-36EEF27A10EA</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>6</option_group_order>
+          <option_name>plaspillen</option_name>
+          <option_value>6</option_value>
+        </op_798ABE70-4AE2-4548-9A24-36EEF27A10EA>
+        <op_7A185CBF-CB6C-458D-8F51-DA95852A316C form_sync_id="25BE8EF0-8A2C-445F-B238-6ACDE26FFED2">
+          <option_id>7A185CBF-CB6C-458D-8F51-DA95852A316C</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>7</option_group_order>
+          <option_name>ACE-remmer</option_name>
+          <option_value>7</option_value>
+        </op_7A185CBF-CB6C-458D-8F51-DA95852A316C>
+        <op_CA90E65D-9DAC-4E18-BD0B-31A3207D74BD form_sync_id="76B07122-EDDA-4FA1-9F88-50F0374416E8">
+          <option_id>CA90E65D-9DAC-4E18-BD0B-31A3207D74BD</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>8</option_group_order>
+          <option_name>therapeutische steroïden</option_name>
+          <option_value>8</option_value>
+        </op_CA90E65D-9DAC-4E18-BD0B-31A3207D74BD>
+        <op_E5272C5C-6097-47DB-8446-16DC7B346AD7 form_sync_id="38EB960B-7AD5-4436-8073-3AA9E9256847">
+          <option_id>E5272C5C-6097-47DB-8446-16DC7B346AD7</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>9</option_group_order>
+          <option_name>Ik weet het niet</option_name>
+          <option_value>9</option_value>
+        </op_E5272C5C-6097-47DB-8446-16DC7B346AD7>
+        <op_62FDA209-8582-4B30-9D5F-54E556B86FCE form_sync_id="083F7D87-F6F9-4F2A-A4DA-43EF01345592">
+          <option_id>62FDA209-8582-4B30-9D5F-54E556B86FCE</option_id>
+          <option_group_id>37D34E74-46CC-40E3-A2CD-2209B2D02D08</option_group_id>
+          <option_group_order>10</option_group_order>
+          <option_name>Anders</option_name>
+          <option_value>10</option_value>
+        </op_62FDA209-8582-4B30-9D5F-54E556B86FCE>
+      </options>
+    </og_37D34E74-46CC-40E3-A2CD-2209B2D02D08>
+  </optionLists>
+  <version>3</version>
+  <metadata>1</metadata>
+  <date_created>2024-07-16 12:24:50</date_created>
+  <created_by>Shuxin Zhang (s.x.zhang@amsterdamumc.nl)</created_by>
+  <lookupTable/>
+  <study name="Study" guid="study"/>
+  <reports name="Repeating Data" guid="reports"/>
+  <surveys name="Surveys" guid="surveys">
+    <survey>
+      <su_7DEF00F1-FD88-4EC3-860F-9535E7F77865 survey_id="7DEF00F1-FD88-4EC3-860F-9535E7F77865" survey_name="Diagnose formulier voor de arts" survey_description="" survey_invitation="" survey_invitation_subject="" survey_send_after="0" survey_auto_send="0" survey_reminder="0" survey_required="0" survey_intro_text="Beste huisarts,&#13;&#10;&#13;&#10;Deze patiënt uit uw praktijk heeft de intentie om deel te nemen aan medisch-wetenschappelijk onderzoek naar Myalgische Encefalomyelitis / Chronisch vermoeidheidssyndroom (ME/CVS) en verwante ziekten zoals het Q-koortsvermoeidheidssyndroom (QVS), Post-Treatment Lyme Disease Syndrome (PTLDS), long COVID en Multipele Sclerose (MS). Dit is het Nederlands ME/CVS Cohort en Biobank [(NMCB)](https://nmcb.eu/), een onderzoek van het Amsterdam UMC met als doel het opzetten van een patiënt cohort en biobank, waarmee biomedische onderzoek naar betere diagnose en behandeling wordt uitgevoerd. &#13;&#10;&#13;&#10;**Alvorens uw patiënt(e) kan deelnemen aan ons onderzoek willen wij kort om uw hulp vragen. **  &#13;&#10;&#13;&#10;Onderzoek naar ME/CVS, QVS, PTLDS en long COVID is sterk afhankelijk van goede in- en exclusiecriteria. Het is hierbij belangrijk dat de diagnose door een arts is gesteld en dat er geen sprake is van bijkomende ziektebeelden die de klachten van patiënt of onze metingen kunnen vertroebelen." survey_outro_text="" survey_footer_text="Meer informatie over het  onderzoek vindt u op [www.nmcb.eu](www.nmcb.eu)." show_step_navigator="1" allow_step_navigation="1" force_step_completion="1" survey_finish_url="" survey_sender_name="" survey_sender_address="" send_pattern="" auto_lock_on_finish="0" form_sync_id="C70B00FA-BF6F-4DE2-98B4-476254675D50" name="Diagnose formulier voor de arts" guid="7DEF00F1-FD88-4EC3-860F-9535E7F77865" stepCount="1">
+        <survey_steps>
+          <ss_06109448-7A33-40CB-9A13-B7FC14E05C51 name="Diagnose formulier voor de arts" rejected="0" guid="06109448-7A33-40CB-9A13-B7FC14E05C51" survey_step_number="1" survey_step_name="Diagnose formulier voor de arts" survey_step_description="" survey_step_footer_text="Ga voor meer informatie naar nmcb.eu of stuur een e-mail naar nmcb@amsterdamumc.nl." form_numbering="visible" field_alignment="left-aligned" label_bold_if_required="true" form_sync_id="E910B4B4-8647-4D21-8396-8A0B611D73D3">
+            <fields>
+              <fi_C7222CD3-DCD4-43C1-AD38-0660F652C1EF form_sync_id="B7C82F9F-B9A8-418F-9869-A3293E832911">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>C7222CD3-DCD4-43C1-AD38-0660F652C1EF</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Mag ik alstublieft uw BIG-nummer voor bevestiging?</field_label>
+                <field_variable_name>gp_BIG</field_variable_name>
+                <field_type>numeric</field_type>
+                <field_type_description>Numeric field</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length>11</field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-17 12:43:26</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="9A4E8E7E-8D2E-4A68-A3E1-E1A4945C5043">
+                    <field_id>C7222CD3-DCD4-43C1-AD38-0660F652C1EF</field_id>
+                    <field_validation_id>40</field_validation_id>
+                    <field_validation_operator>&lt;</field_validation_operator>
+                    <field_validation_text>The length of BIG number is incorrect. Please check it out.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>10000000000</field_validation_value>
+                  </validation_0>
+                  <validation_1 form_sync_id="FE247694-2392-4511-B443-DE9060756915">
+                    <field_id>C7222CD3-DCD4-43C1-AD38-0660F652C1EF</field_id>
+                    <field_validation_id>41</field_validation_id>
+                    <field_validation_operator>&gt;</field_validation_operator>
+                    <field_validation_text>The length of BIG number is incorrect. Please check it out.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>99999999999</field_validation_value>
+                  </validation_1>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Mag ik alstublieft uw BIG-nummer voor bevestiging?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_C7222CD3-DCD4-43C1-AD38-0660F652C1EF>
+              <fi_26F2B1A4-5C4D-4C43-8B70-4FD881CFB024 form_sync_id="410EB5BA-9E7F-41A7-A122-90623452E358">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>26F2B1A4-5C4D-4C43-8B70-4FD881CFB024</field_id>
+                <field_number>4</field_number>
+                <field_number_display>4</field_number_display>
+                <field_label>Geboortedatum van de pati&amp;euml;nt</field_label>
+                <field_variable_name>gp_dob</field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-16 12:24:18</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="F15B3745-5F21-4B8F-AC19-5B4724A1AD44">
+                    <field_id>26F2B1A4-5C4D-4C43-8B70-4FD881CFB024</field_id>
+                    <field_validation_id>42</field_validation_id>
+                    <field_validation_operator>&gt;</field_validation_operator>
+                    <field_validation_text>De datum kan niet in de toekomst liggen.De geboortedatum kan niet in de toekomst liggen.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>NOW</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Geboortedatum van de patiënt</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_26F2B1A4-5C4D-4C43-8B70-4FD881CFB024>
+              <fi_8353F315-175E-4AA3-898C-2A21E43A115A form_sync_id="266424D2-E467-462A-8E62-14B2845A4E24">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>8353F315-175E-4AA3-898C-2A21E43A115A</field_id>
+                <field_number>5</field_number>
+                <field_number_display>5</field_number_display>
+                <field_label>Bij uw pati&amp;euml;nt ooit een van de volgende diagnoses is gesteld: (meerdere antwoorden mogelijk)</field_label>
+                <field_variable_name>gp_diagnosis_inclusion</field_variable_name>
+                <field_type>checkbox</field_type>
+                <field_type_description>Checkbox</field_type_description>
+                <field_option_group>896C5302-B716-43C0-82B8-B5FACF1D6E23</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-03 15:40:24</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="1E7692CB-2C65-477F-AE45-99B8941276B3">
+                    <field_id>8353F315-175E-4AA3-898C-2A21E43A115A</field_id>
+                    <field_validation_id>62</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>Let op: Als u "Geen van onderstaande" hebt geselecteerd, moet u geen andere optie selecteren. Controleer dit alstublieft voor de nauwkeurigheid voordat u verdergaat.</field_validation_text>
+                    <field_validation_type>warning</field_validation_type>
+                    <field_validation_value>0</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds>
+                  <dependencyChild_0>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>035AE084-1166-4A9E-B032-33758DCBA8BA</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>5</field_dependency_value>
+                  </dependencyChild_0>
+                  <dependencyChild_1>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>0E4A8920-706C-4584-92F7-FB4B7FCEF7B8</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>2</field_dependency_value>
+                  </dependencyChild_1>
+                  <dependencyChild_2>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>38605D07-5BDF-4B9E-93A2-C06319620591</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyChild_2>
+                  <dependencyChild_3>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>849B9366-722F-4137-816F-4C8FFBFAAF30</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>3</field_dependency_value>
+                  </dependencyChild_3>
+                  <dependencyChild_4>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>BFB43DB4-4EEF-4B0F-B4B2-CFBB83FBF910</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>5</field_dependency_value>
+                  </dependencyChild_4>
+                  <dependencyChild_5>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>E6B1EA3A-918F-4A1E-B32C-77D2C175AC25</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>2</field_dependency_value>
+                  </dependencyChild_5>
+                  <dependencyChild_6>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>F3279314-A668-408E-90C7-3415B82CA3F2</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyChild_6>
+                </dependencyChilds>
+                <dependencyParents/>
+                <field_label_parsed>Bij uw patiënt ooit een van de volgende diagnoses is gesteld: (meerdere antwoorden mogelijk)</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_8353F315-175E-4AA3-898C-2A21E43A115A>
+              <fi_F3279314-A668-408E-90C7-3415B82CA3F2 form_sync_id="2F1DE44C-EF58-4E6B-AB85-26091DE781CE">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>F3279314-A668-408E-90C7-3415B82CA3F2</field_id>
+                <field_number>6</field_number>
+                <field_number_display>6</field_number_display>
+                <field_label>Op welke datum is bij u de diagnose ME/CVS vastgesteld?</field_label>
+                <field_variable_name>gp_diagnosis_date_me</field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-16 11:43:39</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="89E73621-8A40-495E-B897-F7C3EFE83103">
+                    <field_id>F3279314-A668-408E-90C7-3415B82CA3F2</field_id>
+                    <field_validation_id>43</field_validation_id>
+                    <field_validation_operator>&gt;</field_validation_operator>
+                    <field_validation_text>De datum kan niet in de toekomst liggen.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>NOW</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds>
+                  <dependencyChild_0>
+                    <field_id_parent>F3279314-A668-408E-90C7-3415B82CA3F2</field_id_parent>
+                    <field_id_child>C7659C9E-7B23-425B-879B-55BEB3D2AB01</field_id_child>
+                    <field_dependency_operator>!=</field_dependency_operator>
+                    <field_dependency_value>777</field_dependency_value>
+                  </dependencyChild_0>
+                </dependencyChilds>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>F3279314-A668-408E-90C7-3415B82CA3F2</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Op welke datum is bij u de diagnose ME/CVS vastgesteld?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_F3279314-A668-408E-90C7-3415B82CA3F2>
+              <fi_C7659C9E-7B23-425B-879B-55BEB3D2AB01 form_sync_id="D99694F8-2FA2-45AB-B0BB-6C7DEF15B3B9">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>C7659C9E-7B23-425B-879B-55BEB3D2AB01</field_id>
+                <field_number>7</field_number>
+                <field_number_display>7</field_number_display>
+                <field_label>Controleer of de datum van de diagnose ME/CVS juist is ingevoerd.</field_label>
+                <field_variable_name>date_me_cvs_check</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+var date_of_diag = moment('{gp_diagnosis_date_me}', 'DD-MM-YYYY');&#13;
+var today = moment();&#13;
+var date_validity = 0&#13;
+&#13;
+month_diff = today.diff(date_of_diag, 'months')&#13;
+&#13;
+if (month_diff &lt; 3){&#13;
+    date_validity = 0;&#13;
+}&#13;
+else {&#13;
+    date_validity = 1;&#13;
+}&#13;
+&#13;
+date_validity;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-16 11:44:10</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="313F60B0-F275-44D1-A3E9-39CDA29C537B">
+                    <field_id>C7659C9E-7B23-425B-879B-55BEB3D2AB01</field_id>
+                    <field_validation_id>48</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>Bevestig de diagnose datum. ME/CVS-criteria vereisen minstens drie maanden symptomen.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>0</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>F3279314-A668-408E-90C7-3415B82CA3F2</field_id_parent>
+                    <field_id_child>C7659C9E-7B23-425B-879B-55BEB3D2AB01</field_id_child>
+                    <field_dependency_operator>!=</field_dependency_operator>
+                    <field_dependency_value>777</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Controleer of de datum van de diagnose ME/CVS juist is ingevoerd.</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_C7659C9E-7B23-425B-879B-55BEB3D2AB01>
+              <fi_38605D07-5BDF-4B9E-93A2-C06319620591 form_sync_id="895F0BF6-16E4-4FE4-BAF6-74E250282595">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>38605D07-5BDF-4B9E-93A2-C06319620591</field_id>
+                <field_number>8</field_number>
+                <field_number_display>8</field_number_display>
+                <field_label>Door wie is de diagnose ME/CVS gesteld? (meerdere antwoorden mogelijk)</field_label>
+                <field_variable_name>gp_diagnosis_who_me</field_variable_name>
+                <field_type>checkbox</field_type>
+                <field_type_description>Checkbox</field_type_description>
+                <field_option_group>CB9A3CA7-F063-450D-96D3-C7E35DEB137E</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>C5C4E3E5-0816-4903-93DB-CF4785ACD921</updated_by>
+                <updated_on>2024-06-17 10:43:08</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds>
+                  <dependencyChild_0>
+                    <field_id_parent>38605D07-5BDF-4B9E-93A2-C06319620591</field_id_parent>
+                    <field_id_child>F69C736F-7015-4945-8886-6F445338EA61</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>2</field_dependency_value>
+                  </dependencyChild_0>
+                </dependencyChilds>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>38605D07-5BDF-4B9E-93A2-C06319620591</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Door wie is de diagnose ME/CVS gesteld? (meerdere antwoorden mogelijk)</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_38605D07-5BDF-4B9E-93A2-C06319620591>
+              <fi_F69C736F-7015-4945-8886-6F445338EA61 form_sync_id="5544FF5D-E235-4B33-BD74-9849F42F5794">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>F69C736F-7015-4945-8886-6F445338EA61</field_id>
+                <field_number>9</field_number>
+                <field_number_display>9</field_number_display>
+                <field_label>Specialisme:</field_label>
+                <field_variable_name>gp_diagnosis_who_me_specialism</field_variable_name>
+                <field_type>string</field_type>
+                <field_type_description>Textfield</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>C5C4E3E5-0816-4903-93DB-CF4785ACD921</updated_by>
+                <updated_on>2024-06-17 10:43:08</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>38605D07-5BDF-4B9E-93A2-C06319620591</field_id_parent>
+                    <field_id_child>F69C736F-7015-4945-8886-6F445338EA61</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>2</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Specialisme:</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_F69C736F-7015-4945-8886-6F445338EA61>
+              <fi_E6B1EA3A-918F-4A1E-B32C-77D2C175AC25 form_sync_id="4440C1A5-C6AC-46E9-B9F5-33682F4072DA">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>E6B1EA3A-918F-4A1E-B32C-77D2C175AC25</field_id>
+                <field_number>10</field_number>
+                <field_number_display>10</field_number_display>
+                <field_label>Op welke datum is bij u de diagnose Multiple Sclerose vastgesteld?</field_label>
+                <field_variable_name>gp_diagnosis_date_ms</field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-16 12:21:27</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="8B9B04F0-49D2-4DED-B600-AD9A0DE1388A">
+                    <field_id>E6B1EA3A-918F-4A1E-B32C-77D2C175AC25</field_id>
+                    <field_validation_id>44</field_validation_id>
+                    <field_validation_operator>&gt;</field_validation_operator>
+                    <field_validation_text>De datum kan niet in de toekomst liggen.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>NOW</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>E6B1EA3A-918F-4A1E-B32C-77D2C175AC25</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>2</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Op welke datum is bij u de diagnose Multiple Sclerose vastgesteld?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_E6B1EA3A-918F-4A1E-B32C-77D2C175AC25>
+              <fi_849B9366-722F-4137-816F-4C8FFBFAAF30 form_sync_id="516F4634-73E4-44DF-9BD1-F09180EA0A0A">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>849B9366-722F-4137-816F-4C8FFBFAAF30</field_id>
+                <field_number>11</field_number>
+                <field_number_display>11</field_number_display>
+                <field_label>Op welke datum is bij u de diagnose Q-koortsvermoeidheidssyndroom vastgesteld?</field_label>
+                <field_variable_name>gp_diagnosis_date_qfever</field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-16 12:22:07</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="4926CEE3-14C9-4923-860F-81613DDC5254">
+                    <field_id>849B9366-722F-4137-816F-4C8FFBFAAF30</field_id>
+                    <field_validation_id>45</field_validation_id>
+                    <field_validation_operator>&gt;</field_validation_operator>
+                    <field_validation_text>De datum kan niet in de toekomst liggen.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>NOW</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>849B9366-722F-4137-816F-4C8FFBFAAF30</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>3</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Op welke datum is bij u de diagnose Q-koortsvermoeidheidssyndroom vastgesteld?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_849B9366-722F-4137-816F-4C8FFBFAAF30>
+              <fi_0E4A8920-706C-4584-92F7-FB4B7FCEF7B8 form_sync_id="AA5728A2-6AB9-4746-BE4D-6D75F778444E">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>0E4A8920-706C-4584-92F7-FB4B7FCEF7B8</field_id>
+                <field_number>12</field_number>
+                <field_number_display>12</field_number_display>
+                <field_label>Op welke datum is bij u de diagnose  Post-behandelingssyndroom van de ziekte van Lyme vastgesteld?</field_label>
+                <field_variable_name>gp_diagnosis_date_lyme</field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-16 12:22:30</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="E481FE22-A53F-4D2B-8DE2-A3F9EEA51DFD">
+                    <field_id>0E4A8920-706C-4584-92F7-FB4B7FCEF7B8</field_id>
+                    <field_validation_id>46</field_validation_id>
+                    <field_validation_operator>&gt;</field_validation_operator>
+                    <field_validation_text>De datum kan niet in de toekomst liggen.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>NOW</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>0E4A8920-706C-4584-92F7-FB4B7FCEF7B8</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>2</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Op welke datum is bij u de diagnose  Post-behandelingssyndroom van de ziekte van Lyme vastgesteld?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_0E4A8920-706C-4584-92F7-FB4B7FCEF7B8>
+              <fi_035AE084-1166-4A9E-B032-33758DCBA8BA form_sync_id="8DEA2C93-B122-4F45-97F8-7E544EC711A1">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>035AE084-1166-4A9E-B032-33758DCBA8BA</field_id>
+                <field_number>13</field_number>
+                <field_number_display>13</field_number_display>
+                <field_label>Op welke datum is bij u de diagnose  R83.04: langdurige COVID-19 (Long COVID) bij SARS-CoV-2 (COVID-19) R83.03 vastgesteld?</field_label>
+                <field_variable_name>gp_diagnosis_date_longcovid</field_variable_name>
+                <field_type>date</field_type>
+                <field_type_description>Date</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-16 12:23:15</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="D9EDFC05-AEDC-4BE9-A557-0C217F799EAB">
+                    <field_id>035AE084-1166-4A9E-B032-33758DCBA8BA</field_id>
+                    <field_validation_id>47</field_validation_id>
+                    <field_validation_operator>&gt;</field_validation_operator>
+                    <field_validation_text>De datum kan niet in de toekomst liggen.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>NOW</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds>
+                  <dependencyChild_0>
+                    <field_id_parent>035AE084-1166-4A9E-B032-33758DCBA8BA</field_id_parent>
+                    <field_id_child>73F9DD69-24C8-4683-BA14-B1A524256BC2</field_id_child>
+                    <field_dependency_operator>!=</field_dependency_operator>
+                    <field_dependency_value>777</field_dependency_value>
+                  </dependencyChild_0>
+                </dependencyChilds>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>035AE084-1166-4A9E-B032-33758DCBA8BA</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>5</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Op welke datum is bij u de diagnose  R83.04: langdurige COVID-19 (Long COVID) bij SARS-CoV-2 (COVID-19) R83.03 vastgesteld?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_035AE084-1166-4A9E-B032-33758DCBA8BA>
+              <fi_73F9DD69-24C8-4683-BA14-B1A524256BC2 form_sync_id="6B643D6C-78B2-43A4-B118-B123907CBE44">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>73F9DD69-24C8-4683-BA14-B1A524256BC2</field_id>
+                <field_number>14</field_number>
+                <field_number_display>14</field_number_display>
+                <field_label>Controleer of de datum van de diagnose Long COVID juist is ingevoerd.</field_label>
+                <field_variable_name>date_lc_check</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+var date_of_diag = moment('{gp_diagnosis_date_longcovid}', 'DD-MM-YYYY');&#13;
+var today = moment();&#13;
+var date_validity = 0&#13;
+&#13;
+month_diff = today.diff(date_of_diag, 'months')&#13;
+&#13;
+if (month_diff &lt; 5){&#13;
+    date_validity = 0;&#13;
+}&#13;
+else {&#13;
+    date_validity = 1;&#13;
+}&#13;
+&#13;
+date_validity;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-16 12:20:46</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="DFD03EEB-B478-49BB-83B6-804CA0CA3C04">
+                    <field_id>73F9DD69-24C8-4683-BA14-B1A524256BC2</field_id>
+                    <field_validation_id>49</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>Bevestig de diagnose datum. Long COVID-criteria vereisen minstens vijf maanden symptomen.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>0</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>035AE084-1166-4A9E-B032-33758DCBA8BA</field_id_parent>
+                    <field_id_child>73F9DD69-24C8-4683-BA14-B1A524256BC2</field_id_child>
+                    <field_dependency_operator>!=</field_dependency_operator>
+                    <field_dependency_value>777</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Controleer of de datum van de diagnose Long COVID juist is ingevoerd.</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_73F9DD69-24C8-4683-BA14-B1A524256BC2>
+              <fi_BFB43DB4-4EEF-4B0F-B4B2-CFBB83FBF910 form_sync_id="7A75E44C-9950-469C-9AA6-D02F9F282B25">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>BFB43DB4-4EEF-4B0F-B4B2-CFBB83FBF910</field_id>
+                <field_number>15</field_number>
+                <field_number_display>15</field_number_display>
+                <field_label>Door wie is de diagnose langdurige COVID-19 (Long COVID) gesteld? (meerdere antwoorden mogelijk)</field_label>
+                <field_variable_name>gp_diagnosis_who_longcovid</field_variable_name>
+                <field_type>checkbox</field_type>
+                <field_type_description>Checkbox</field_type_description>
+                <field_option_group>CB9A3CA7-F063-450D-96D3-C7E35DEB137E</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>C5C4E3E5-0816-4903-93DB-CF4785ACD921</updated_by>
+                <updated_on>2024-06-26 10:58:42</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>8353F315-175E-4AA3-898C-2A21E43A115A</field_id_parent>
+                    <field_id_child>BFB43DB4-4EEF-4B0F-B4B2-CFBB83FBF910</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>5</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Door wie is de diagnose langdurige COVID-19 (Long COVID) gesteld? (meerdere antwoorden mogelijk)</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_BFB43DB4-4EEF-4B0F-B4B2-CFBB83FBF910>
+              <fi_CD337CD1-F354-47F0-B810-578F79B0179B form_sync_id="9EFE4196-15B0-47B5-8BF8-B653C4C9B57B">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>CD337CD1-F354-47F0-B810-578F79B0179B</field_id>
+                <field_number>16</field_number>
+                <field_number_display>16</field_number_display>
+                <field_label>Bij uw pati&amp;euml;nt ooit een van de volgende diagnose is gesteld: (meerdere antwoorden mogelijk)</field_label>
+                <field_variable_name>gp_diagnosis_exclusion</field_variable_name>
+                <field_type>checkbox</field_type>
+                <field_type_description>Checkbox</field_type_description>
+                <field_option_group>453FF7E9-369E-4867-8379-BA522D71CA43</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-03 15:41:35</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="2DCF92BA-4940-429F-A18E-EDC9C437EC75">
+                    <field_id>CD337CD1-F354-47F0-B810-578F79B0179B</field_id>
+                    <field_validation_id>63</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>Let op: Als u "Geen van onderstaande" hebt geselecteerd, moet u geen andere optie selecteren. Controleer dit alstublieft voor de nauwkeurigheid voordat u verdergaat.</field_validation_text>
+                    <field_validation_type>warning</field_validation_type>
+                    <field_validation_value>0</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Bij uw patiënt ooit een van de volgende diagnose is gesteld: (meerdere antwoorden mogelijk)</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_CD337CD1-F354-47F0-B810-578F79B0179B>
+              <fi_67C2EA33-240B-4325-9F94-EDAC6FD267E6 form_sync_id="F8431C4D-1926-4139-8FFF-B3C48190FCEF">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>67C2EA33-240B-4325-9F94-EDAC6FD267E6</field_id>
+                <field_number>17</field_number>
+                <field_number_display>17</field_number_display>
+                <field_label>Andere ziektes:    Zijn er nog andere ziektes waar we volgens u rekening mee moeten houden?</field_label>
+                <field_variable_name>gp_diagnosis_exclusion_other</field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>F6FBCC29-346D-4C86-83EF-9528F2491D7D</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-26 15:58:45</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds>
+                  <dependencyChild_0>
+                    <field_id_parent>67C2EA33-240B-4325-9F94-EDAC6FD267E6</field_id_parent>
+                    <field_id_child>245AC545-4D54-4640-B4BC-D3DCA47A8D68</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyChild_0>
+                </dependencyChilds>
+                <dependencyParents/>
+                <field_label_parsed>Andere ziektes:    Zijn er nog andere ziektes waar we volgens u rekening mee moeten houden?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_67C2EA33-240B-4325-9F94-EDAC6FD267E6>
+              <fi_245AC545-4D54-4640-B4BC-D3DCA47A8D68 form_sync_id="AAE5FC3F-3C7F-4D5B-8C4D-AE7DCCC009B2">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>245AC545-4D54-4640-B4BC-D3DCA47A8D68</field_id>
+                <field_number>18</field_number>
+                <field_number_display>18</field_number_display>
+                <field_label>Andere ziektes:</field_label>
+                <field_variable_name>gp_diagnosis_exclusion_other_t</field_variable_name>
+                <field_type>string</field_type>
+                <field_type_description>Textfield</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>C5C4E3E5-0816-4903-93DB-CF4785ACD921</updated_by>
+                <updated_on>2024-06-26 10:58:42</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>67C2EA33-240B-4325-9F94-EDAC6FD267E6</field_id_parent>
+                    <field_id_child>245AC545-4D54-4640-B4BC-D3DCA47A8D68</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Andere ziektes:</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_245AC545-4D54-4640-B4BC-D3DCA47A8D68>
+              <fi_92165026-F8C9-4673-AF7D-F954E78EFA2A form_sync_id="B4BA9781-0793-49AA-887D-2531B3B59080">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>92165026-F8C9-4673-AF7D-F954E78EFA2A</field_id>
+                <field_number>19</field_number>
+                <field_number_display>19</field_number_display>
+                <field_label>Heeft uw pati&amp;euml;nt de afgelopen 3 maanden een van de volgende medicijnen gebruikt?</field_label>
+                <field_variable_name>gp_meds01</field_variable_name>
+                <field_type>checkbox</field_type>
+                <field_type_description>Checkbox</field_type_description>
+                <field_option_group>37D34E74-46CC-40E3-A2CD-2209B2D02D08</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-03 15:42:01</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="655EF34E-D6A9-4044-9A05-E301D0AF71B3">
+                    <field_id>92165026-F8C9-4673-AF7D-F954E78EFA2A</field_id>
+                    <field_validation_id>64</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>Let op: Als u "Ze hebben de afgelopen 3 maanden geen van de onderstaande medicijnen gebruikt" hebt geselecteerd, moet u geen andere optie selecteren. Controleer dit alstublieft voor de nauwkeurigheid voordat u verdergaat.</field_validation_text>
+                    <field_validation_type>warning</field_validation_type>
+                    <field_validation_value>0</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds>
+                  <dependencyChild_0>
+                    <field_id_parent>92165026-F8C9-4673-AF7D-F954E78EFA2A</field_id_parent>
+                    <field_id_child>594FFFAF-496D-44CB-B311-3AB29004988A</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>10</field_dependency_value>
+                  </dependencyChild_0>
+                </dependencyChilds>
+                <dependencyParents/>
+                <field_label_parsed>Heeft uw patiënt de afgelopen 3 maanden een van de volgende medicijnen gebruikt?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_92165026-F8C9-4673-AF7D-F954E78EFA2A>
+              <fi_594FFFAF-496D-44CB-B311-3AB29004988A form_sync_id="EC9322B2-F474-4474-B22E-5827F967B556">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>594FFFAF-496D-44CB-B311-3AB29004988A</field_id>
+                <field_number>20</field_number>
+                <field_number_display>20</field_number_display>
+                <field_label>Welke andere medicatie(s) heeft uw pati&amp;euml;nt de afgelopen 3 maanden gebruikt?</field_label>
+                <field_variable_name>gp_meds02</field_variable_name>
+                <field_type>string</field_type>
+                <field_type_description>Textfield</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-12 11:58:51</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>92165026-F8C9-4673-AF7D-F954E78EFA2A</field_id_parent>
+                    <field_id_child>594FFFAF-496D-44CB-B311-3AB29004988A</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>10</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Welke andere medicatie(s) heeft uw patiënt de afgelopen 3 maanden gebruikt?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_594FFFAF-496D-44CB-B311-3AB29004988A>
+              <fi_1D1C68CE-AFE4-497A-A19F-D95CDCB571A6 form_sync_id="3397079B-668C-4A9F-976D-92B7FC290F6F">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>1D1C68CE-AFE4-497A-A19F-D95CDCB571A6</field_id>
+                <field_number>21</field_number>
+                <field_number_display>21</field_number_display>
+                <field_label>Hartelijk dank voor uw medewerking!</field_label>
+                <field_variable_name></field_variable_name>
+                <field_type>remark</field_type>
+                <field_type_description>Remark</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>C5C4E3E5-0816-4903-93DB-CF4785ACD921</updated_by>
+                <updated_on>2024-06-26 10:58:42</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Hartelijk dank voor uw medewerking!</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_1D1C68CE-AFE4-497A-A19F-D95CDCB571A6>
+              <fi_949D41E3-92E7-4791-A922-8DD6794E66D5 form_sync_id="1CA54CA0-DC0E-462A-954F-7153EACB7DD4">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>949D41E3-92E7-4791-A922-8DD6794E66D5</field_id>
+                <field_number>22</field_number>
+                <field_number_display>22</field_number_display>
+                <field_label>Eligible Participants</field_label>
+                <field_variable_name>eligible_parti_gp_survey</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+// 1.6 = 0 = Geen van onderstaande&#13;
+var gp_diag_ex = 0;&#13;
+if ('{gp_diagnosis_exclusion}' == 0){&#13;
+    gp_diag_ex += 1;&#13;
+}&#13;
+else{&#13;
+    gp_diag_ex += 0&#13;
+};&#13;
+&#13;
+// 1.7 = 0 = Nee&#13;
+var gp_diag_ex_other = 0;&#13;
+if ('{gp_diagnosis_exclusion_other}' == 0){&#13;
+    gp_diag_ex_other += 1;&#13;
+}&#13;
+else{&#13;
+    gp_diag_ex_other += 0&#13;
+};&#13;
+&#13;
+// 1.8 = 0 = Ze hebben de afgelopen 3 maanden geen van de onderstaande medicijnen gebruikt&#13;
+var gp_med_history = 0;&#13;
+if ('{gp_meds01}' == 0){&#13;
+    gp_med_history += 1;&#13;
+}&#13;
+else{&#13;
+    gp_med_history += 0&#13;
+};&#13;
+&#13;
+// Eligible participants based on GP survey&#13;
+var eligible_participation_gp = 0;&#13;
+&#13;
+if(gp_diag_ex + gp_diag_ex_other + gp_med_history == 3){&#13;
+    eligible_participation_gp = 1;&#13;
+}&#13;
+else{&#13;
+    eligible_participation_gp = 0;&#13;
+};&#13;
+&#13;
+eligible_participation_gp;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-26 16:06:05</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="9DD389BB-A176-4C43-87F6-95793E4945AD">
+                    <field_id>949D41E3-92E7-4791-A922-8DD6794E66D5</field_id>
+                    <field_validation_id>50</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participants is eligible for the study and will be included.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds>
+                  <dependencyChild_0>
+                    <field_id_parent>949D41E3-92E7-4791-A922-8DD6794E66D5</field_id_parent>
+                    <field_id_child>474D2F0A-21DB-4BF8-8984-DC6C3576C8AF</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyChild_0>
+                  <dependencyChild_1>
+                    <field_id_parent>949D41E3-92E7-4791-A922-8DD6794E66D5</field_id_parent>
+                    <field_id_child>F2A0E07B-2C39-4CF0-A195-B7D3238F8710</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyChild_1>
+                  <dependencyChild_2>
+                    <field_id_parent>949D41E3-92E7-4791-A922-8DD6794E66D5</field_id_parent>
+                    <field_id_child>FCE9CB12-638D-464A-8477-C474298454BA</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyChild_2>
+                </dependencyChilds>
+                <dependencyParents/>
+                <field_label_parsed>Eligible Participants</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_949D41E3-92E7-4791-A922-8DD6794E66D5>
+              <fi_C3C33A89-0C22-4D08-B325-59A72F15F013 form_sync_id="83B73ACF-9E5A-4C3E-8EFB-7BE0E9532B64">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>C3C33A89-0C22-4D08-B325-59A72F15F013</field_id>
+                <field_number>23</field_number>
+                <field_number_display>23</field_number_display>
+                <field_label>Excluded Participants</field_label>
+                <field_variable_name>excluded_parti_gp_survey</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+// 1.4 != 0&#13;
+var gp_diag_ex = 0;&#13;
+if ('{gp_diagnosis_exclusion}' &gt;= 0){&#13;
+    gp_diag_ex += 1;&#13;
+}&#13;
+else{&#13;
+    gp_diag_ex += 0&#13;
+};&#13;
+&#13;
+// 1.6 != 0 &amp; != 10&#13;
+var gp_med_history = 0;&#13;
+var splitted = "{gp_meds01}".split(';');&#13;
+if (splitted.indexOf("10") &lt;= -1 || splitted.indexOf("0") &lt;= -1) {&#13;
+ gp_med_history = 1;&#13;
+} else {&#13;
+ gp_med_history = 0;&#13;
+}&#13;
+&#13;
+// Excluded participants&#13;
+var excluded_participation_gp = 0;&#13;
+&#13;
+if(gp_diag_ex + gp_med_history == 2){&#13;
+    excluded_participation_gp = 1;&#13;
+}&#13;
+else{&#13;
+    excluded_participation_gp = 0;&#13;
+};&#13;
+&#13;
+excluded_participation_gp;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-10 16:34:32</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="E17B80A6-CEA7-4828-B437-89E77B1C3851">
+                    <field_id>C3C33A89-0C22-4D08-B325-59A72F15F013</field_id>
+                    <field_validation_id>60</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participants is ineligible for the study and will be exincluded.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Excluded Participants</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_C3C33A89-0C22-4D08-B325-59A72F15F013>
+              <fi_55F5E7A8-38B8-4BAC-B0FF-63EBBD922033 form_sync_id="CC697290-9CD8-48BD-91D2-83B4A08857BE">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>55F5E7A8-38B8-4BAC-B0FF-63EBBD922033</field_id>
+                <field_number>24</field_number>
+                <field_number_display>24</field_number_display>
+                <field_label>Participants Needed for Onsite Review</field_label>
+                <field_variable_name>participants_onsite_review_gp</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+// 1.5 = 1 = Ja&#13;
+var gp_diag_ex_other = 0;&#13;
+if ('{gp_diagnosis_exclusion_other}' == 1){&#13;
+    gp_diag_ex_other += 1;&#13;
+}&#13;
+else{&#13;
+    gp_diag_ex_other += 0&#13;
+};&#13;
+&#13;
+// 1.6 = 10 = Anders&#13;
+var gp_med_history = 0;&#13;
+var splitted = "{gp_meds01}".split(';');&#13;
+if (splitted.indexOf("10") &gt; -1) {&#13;
+ gp_med_history = 1;&#13;
+} else {&#13;
+ gp_med_history = 0;&#13;
+}&#13;
+&#13;
+// Eligible participants based on GP survey&#13;
+var onsite_review_gp = 0;&#13;
+&#13;
+if( gp_diag_ex_other + gp_med_history &gt;= 1){&#13;
+    onsite_review_gp = 1;&#13;
+}&#13;
+else{&#13;
+    onsite_review_gp = 0;&#13;
+};&#13;
+&#13;
+onsite_review_gp;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-28 13:57:54</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="9983CFAB-587B-4C52-B84E-F356625EEAF3">
+                    <field_id>55F5E7A8-38B8-4BAC-B0FF-63EBBD922033</field_id>
+                    <field_validation_id>59</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participant require onsite clinician to review.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Participants Needed for Onsite Review</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_55F5E7A8-38B8-4BAC-B0FF-63EBBD922033>
+              <fi_474D2F0A-21DB-4BF8-8984-DC6C3576C8AF form_sync_id="21392213-BF14-423E-83C4-8F68295DEEA9">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>474D2F0A-21DB-4BF8-8984-DC6C3576C8AF</field_id>
+                <field_number>25</field_number>
+                <field_number_display>25</field_number_display>
+                <field_label>ME/CVS Patients</field_label>
+                <field_variable_name>me_cvs_participant_gp_survey_1</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+// Eligible conditions for everyone&#13;
+var eligible_everyone = 0;&#13;
+if ('{eligible_parti_gp_survey}' == 1){&#13;
+    eligible_everyone = 1;&#13;
+} else {&#13;
+    eligible_everyone = 0;&#13;
+}&#13;
+&#13;
+// 1.3 = 1 = A04.01: chronisch vermoeidheidssyndroom (ME/CVS)&#13;
+var gp_diag_me_cvs = 0;&#13;
+var splitted = '{gp_diagnosis_inclusion}'.split(';');&#13;
+if (splitted.indexOf("1") &gt; -1) {&#13;
+    gp_diag_me_cvs = 1;&#13;
+} else {&#13;
+    gp_diag_me_cvs = 0;&#13;
+}&#13;
+&#13;
+// ME/CVS participants based on GP survey&#13;
+var me_cvs_participant_gp = 0;&#13;
+&#13;
+if(gp_diag_me_cvs + eligible_everyone == 2){&#13;
+    me_cvs_participant_gp = 1;&#13;
+}&#13;
+else{&#13;
+    me_cvs_participant_gp = 0;&#13;
+};&#13;
+&#13;
+me_cvs_participant_gp;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-28 13:57:12</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="66864E5A-E4E6-4760-98F2-9C9AE8ACD396">
+                    <field_id>474D2F0A-21DB-4BF8-8984-DC6C3576C8AF</field_id>
+                    <field_validation_id>82</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participants is categorized into ME/CVS patients.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>949D41E3-92E7-4791-A922-8DD6794E66D5</field_id_parent>
+                    <field_id_child>474D2F0A-21DB-4BF8-8984-DC6C3576C8AF</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>ME/CVS Patients</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_474D2F0A-21DB-4BF8-8984-DC6C3576C8AF>
+              <fi_FCE9CB12-638D-464A-8477-C474298454BA form_sync_id="8821E93C-7BC7-4124-A17E-4DFC7053B6A9">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>FCE9CB12-638D-464A-8477-C474298454BA</field_id>
+                <field_number>26</field_number>
+                <field_number_display>26</field_number_display>
+                <field_label>Healthy Control</field_label>
+                <field_variable_name>healthy_controls_gp_survey_1</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+// Eligible conditions for everyone&#13;
+// 1.9 Eligible Participants on GP Survey = 1 --&gt; '{eligible_parti_gp_survey}'&#13;
+var eligible_everyone = 0;&#13;
+if ('{eligible_parti_gp_survey}' == 1){&#13;
+    eligible_everyone = 1;&#13;
+} else {&#13;
+    eligible_everyone = 0;&#13;
+}&#13;
+&#13;
+// 1.3 = 0 = Geen van onderstaande&#13;
+var gp_diag_none = 0;&#13;
+if ('{gp_diagnosis_inclusion}' == 0){&#13;
+    gp_diag_none = 1;&#13;
+} else {&#13;
+    gp_diag_none = 0;&#13;
+}&#13;
+&#13;
+// Healthy control based on GP survey&#13;
+var gp_healthy_control = 0;&#13;
+&#13;
+if(gp_diag_none + eligible_everyone == 2){&#13;
+    gp_healthy_control = 1;&#13;
+}&#13;
+else{&#13;
+    gp_healthy_control = 0;&#13;
+};&#13;
+&#13;
+gp_healthy_control;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-28 13:57:21</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="B146941E-DAAF-4A4D-BDA8-5709473D0C51">
+                    <field_id>FCE9CB12-638D-464A-8477-C474298454BA</field_id>
+                    <field_validation_id>83</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participants is categorized into healthy control.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>949D41E3-92E7-4791-A922-8DD6794E66D5</field_id_parent>
+                    <field_id_child>FCE9CB12-638D-464A-8477-C474298454BA</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Healthy Control</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_FCE9CB12-638D-464A-8477-C474298454BA>
+              <fi_F2A0E07B-2C39-4CF0-A195-B7D3238F8710 form_sync_id="B961B364-BCED-40D9-87C0-1DF3E059A809">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>F2A0E07B-2C39-4CF0-A195-B7D3238F8710</field_id>
+                <field_number>27</field_number>
+                <field_number_display>27</field_number_display>
+                <field_label>Clinical Control</field_label>
+                <field_variable_name>gp_clinical_control_1</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+// 1.9 Eligible Participants on GP Survey = 1&#13;
+var eligible_everyone = 0;&#13;
+if ('{eligible_parti_gp_survey}' == 1){&#13;
+    eligible_everyone = 1;&#13;
+} else {&#13;
+    eligible_everyone = 0;&#13;
+}&#13;
+&#13;
+// 1.3 not 0 &amp; not 1&#13;
+var gp_clinical_control_pif = 0;&#13;
+var splitted = "{gp_diagnosis_inclusion}".split(';');&#13;
+if ((splitted.indexOf("2") &gt; -1||splitted.indexOf("3") &gt; -1||splitted.indexOf("4") &gt; -1 ||splitted.indexOf("5") &gt; -1) &amp;&amp; splitted.indexOf("1") &lt;= -1) {&#13;
+ gp_clinical_control_pif = 1;&#13;
+} else {&#13;
+ gp_clinical_control_pif = 0;&#13;
+}&#13;
+&#13;
+// Clinical control based on GP survey&#13;
+var gp_clinical_control = 0;&#13;
+&#13;
+if(eligible_everyone + gp_clinical_control_pif == 2){&#13;
+    gp_clinical_control = 1;&#13;
+}&#13;
+else{&#13;
+    gp_clinical_control = 0;&#13;
+};&#13;
+&#13;
+gp_clinical_control;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-28 13:57:28</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="CC61DEC4-C289-4318-800D-D2D2BD12094F">
+                    <field_id>F2A0E07B-2C39-4CF0-A195-B7D3238F8710</field_id>
+                    <field_validation_id>84</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participants is categorized into clinical control.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>949D41E3-92E7-4791-A922-8DD6794E66D5</field_id_parent>
+                    <field_id_child>F2A0E07B-2C39-4CF0-A195-B7D3238F8710</field_id_child>
+                    <field_dependency_operator>==</field_dependency_operator>
+                    <field_dependency_value>1</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Clinical Control</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_F2A0E07B-2C39-4CF0-A195-B7D3238F8710>
+              <fi_92EAA48B-4596-437F-9AE9-AC7A025363E5 form_sync_id="E679B78A-C279-406F-A525-CEB194A2D259">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>92EAA48B-4596-437F-9AE9-AC7A025363E5</field_id>
+                <field_number>28</field_number>
+                <field_number_display>28</field_number_display>
+                <field_label>Lyme Control</field_label>
+                <field_variable_name>gp_lyme_control_1</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+var eligible_everyone = 0;&#13;
+if ('{gp_clinical_control}' == 1){&#13;
+    eligible_everyone = 1;&#13;
+} else {&#13;
+    eligible_everyone = 0;&#13;
+}&#13;
+&#13;
+// GP diagnosis inclusion with lyme checked&#13;
+var gp_diag_lyme = 0;&#13;
+var splitted = "{gp_diagnosis_inclusion}".split(';');&#13;
+if (splitted.indexOf("4") &gt; -1) {&#13;
+ gp_diag_lyme = 1;&#13;
+} else {&#13;
+ gp_diag_lyme = 0;&#13;
+}&#13;
+&#13;
+// Lyme control based on GP survey&#13;
+var gp_lyme = 0;&#13;
+&#13;
+if(eligible_everyone + gp_diag_lyme == 2){&#13;
+    gp_lyme = 1;&#13;
+}&#13;
+else{&#13;
+    gp_lyme = 0;&#13;
+};&#13;
+&#13;
+gp_lyme;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-28 13:57:34</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="B89D5DCB-AA3E-4AD0-BFC5-CB262C5D5C63">
+                    <field_id>92EAA48B-4596-437F-9AE9-AC7A025363E5</field_id>
+                    <field_validation_id>85</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participants is categorized into Lyme control.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Lyme Control</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_92EAA48B-4596-437F-9AE9-AC7A025363E5>
+              <fi_24B4FB19-083A-4292-9A19-617E6D5BD2A3 form_sync_id="4EE8CE8B-5AFE-4768-90BE-911E5E1FBAC9">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>24B4FB19-083A-4292-9A19-617E6D5BD2A3</field_id>
+                <field_number>29</field_number>
+                <field_number_display>29</field_number_display>
+                <field_label>Long COVID Control</field_label>
+                <field_variable_name>gp_lc_control_1</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+// 1.9 Eligible Participants on GP Survey = 1&#13;
+var eligible_everyone = 0;&#13;
+if ('{gp_clinical_control}' == 1){&#13;
+    eligible_everyone = 1;&#13;
+} else {&#13;
+    eligible_everyone = 0;&#13;
+}&#13;
+&#13;
+// GP diagnosis inclusion with Long  Covid checked&#13;
+var gp_diag_lc = 0;&#13;
+var splitted = "{gp_diagnosis_inclusion}".split(';');&#13;
+if (splitted.indexOf("5") &gt; -1) {&#13;
+ gp_diag_lc = 1;&#13;
+} else {&#13;
+ gp_diag_lc = 0;&#13;
+}&#13;
+&#13;
+// Lyme control based on GP survey&#13;
+var gp_lc = 0;&#13;
+&#13;
+if(eligible_everyone + gp_diag_lc == 2){&#13;
+    gp_lc = 1;&#13;
+}&#13;
+else{&#13;
+    gp_lc = 0;&#13;
+};&#13;
+&#13;
+gp_lc;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-28 13:57:40</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="2C639A8E-5188-444B-BC73-5FBAE57FD0AE">
+                    <field_id>24B4FB19-083A-4292-9A19-617E6D5BD2A3</field_id>
+                    <field_validation_id>86</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participants is categorized into Long COVID control.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Long COVID Control</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_24B4FB19-083A-4292-9A19-617E6D5BD2A3>
+              <fi_170F9AB0-3CC1-45F6-9B61-76BDBFD997D7 form_sync_id="57AAA48A-9D6F-44F0-9846-2795D3BD8B9C">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>170F9AB0-3CC1-45F6-9B61-76BDBFD997D7</field_id>
+                <field_number>30</field_number>
+                <field_number_display>30</field_number_display>
+                <field_label>Multiple Sclerose Control</field_label>
+                <field_variable_name>gp_ms_control_1</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+// 1.9 Eligible Participants on GP Survey = 1&#13;
+var eligible_everyone = 0;&#13;
+if ('{gp_clinical_control}' == 1){&#13;
+    eligible_everyone = 1;&#13;
+} else {&#13;
+    eligible_everyone = 0;&#13;
+}&#13;
+&#13;
+// GP diagnosis inclusion with MS checked&#13;
+var gp_diag_ms = 0;&#13;
+var splitted = "{gp_diagnosis_inclusion}".split(';');&#13;
+if (splitted.indexOf("2") &gt; -1) {&#13;
+ gp_diag_ms = 1;&#13;
+} else {&#13;
+ gp_diag_ms = 0;&#13;
+}&#13;
+&#13;
+// Lyme control based on GP survey&#13;
+var gp_ms = 0;&#13;
+&#13;
+if(eligible_everyone + gp_diag_ms == 2){&#13;
+    gp_ms = 1;&#13;
+}&#13;
+else{&#13;
+    gp_ms = 0;&#13;
+};&#13;
+&#13;
+gp_ms;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-28 13:57:48</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="08FE0C00-78EF-4284-80C1-0DD4C8944DB9">
+                    <field_id>170F9AB0-3CC1-45F6-9B61-76BDBFD997D7</field_id>
+                    <field_validation_id>87</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participants is categorized into Multiple Sclerose control.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Multiple Sclerose Control</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_170F9AB0-3CC1-45F6-9B61-76BDBFD997D7>
+              <fi_AE2FF310-BE59-4097-948F-165B361DB030 form_sync_id="E12549AF-78A3-4620-9013-A02651E586DA">
+                <parent_id>06109448-7A33-40CB-9A13-B7FC14E05C51</parent_id>
+                <field_id>AE2FF310-BE59-4097-948F-165B361DB030</field_id>
+                <field_number>31</field_number>
+                <field_number_display>31</field_number_display>
+                <field_label>Q-fever Control</field_label>
+                <field_variable_name>gp_qf_control_1</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>'##allowempty##';&#13;
+// 1.9 Eligible Participants on GP Survey = 1&#13;
+var eligible_everyone = 0;&#13;
+if ('{gp_clinical_control}' == 1){&#13;
+    eligible_everyone = 1;&#13;
+} else {&#13;
+    eligible_everyone = 0;&#13;
+}&#13;
+&#13;
+// GP diagnosis inclusion with Q-fever checked&#13;
+var gp_diag_qf = 0;&#13;
+var splitted = "{gp_diagnosis_inclusion}".split(';');&#13;
+if (splitted.indexOf("3") &gt; -1) {&#13;
+ gp_diag_qf = 1;&#13;
+} else {&#13;
+ gp_diag_qf = 0;&#13;
+}&#13;
+&#13;
+// Lyme control based on GP survey&#13;
+var gp_qf = 0;&#13;
+&#13;
+if(eligible_everyone + gp_diag_qf == 2){&#13;
+    gp_qf = 1;&#13;
+}&#13;
+else{&#13;
+    gp_qf = 0;&#13;
+};&#13;
+&#13;
+gp_qf;</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-28 13:57:54</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="BF4A9BF0-2383-4D9E-A94C-764303F4A1D1">
+                    <field_id>AE2FF310-BE59-4097-948F-165B361DB030</field_id>
+                    <field_validation_id>88</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>The participants is categorized into Q-fever control.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Q-fever Control</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_AE2FF310-BE59-4097-948F-165B361DB030>
+            </fields>
+          </ss_06109448-7A33-40CB-9A13-B7FC14E05C51>
+        </survey_steps>
+      </su_7DEF00F1-FD88-4EC3-860F-9535E7F77865>
+    </survey>
+  </surveys>
+  <survey_packages name="Survey Packages" guid="survey_packages">
+    <survey_package>
+      <sp_70C1742A-733F-4A22-B442-6D613186A1F1 name="GP Survey" guid="70C1742A-733F-4A22-B442-6D613186A1F1" description="" send_after="true" auto_send="false" required="false" allow_step_navigation="true" show_step_navigator="true" force_step_completion="true" finish_url="" send_pattern="" intro_text="" outro_text="" default_invitation="Hi Ruud,&#13;&#10;&#13;&#10;This is the start of getting the GP Survey into Castor. When you have time, could you please play around with it and let me know your thoughts? Thanks so much!&#13;&#10;&#13;&#10;{url}" default_invitation_subject="GP Survey" sender_name="Castor EDC" sender_email="no-reply@castoredc.com" auto_lock_on_finish="true" is_mobile="false" is_training="false" is_repeatable="false" is_resumable="false" as_needed="false" field_pagination="none" expire_after_hours="" form_sync_id="224E715D-B742-466D-9023-0C79F97C61EA" allow_open_survey_link="false">
+        <survey>7DEF00F1-FD88-4EC3-860F-9535E7F77865</survey>
+      </sp_70C1742A-733F-4A22-B442-6D613186A1F1>
+    </survey_package>
+  </survey_packages>
+  <domains/>
+  <export_type>all</export_type>
+</xml>

@@ -1,0 +1,406 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xml>
+  <crf_id>46E6F1B1-2704-4F17-9D7D-6A7A1C39159F</crf_id>
+  <optionLists>
+    <og_9CFD08D9-5EC6-41F5-8F2D-EF95E0CD879F form_sync_id="DD56F433-9543-48DD-B920-443DD7201A56">
+      <option_group_id>9CFD08D9-5EC6-41F5-8F2D-EF95E0CD879F</option_group_id>
+      <option_group_name>preferred contact</option_group_name>
+      <option_group_description></option_group_description>
+      <option_group_layout>0</option_group_layout>
+      <options>
+        <op_8D4A8792-5E61-4C8D-B7C8-21B77FEC9527 form_sync_id="8B6D1F5D-5E2B-4024-8F8C-78FB956D13AB">
+          <option_id>8D4A8792-5E61-4C8D-B7C8-21B77FEC9527</option_id>
+          <option_group_id>9CFD08D9-5EC6-41F5-8F2D-EF95E0CD879F</option_group_id>
+          <option_group_order>0</option_group_order>
+          <option_name>Telefoon</option_name>
+          <option_value>1</option_value>
+        </op_8D4A8792-5E61-4C8D-B7C8-21B77FEC9527>
+        <op_77A445E2-1829-45B3-A0A4-46D81858734E form_sync_id="ECB62D78-B0EC-48F0-8C2D-422ECB405DFA">
+          <option_id>77A445E2-1829-45B3-A0A4-46D81858734E</option_id>
+          <option_group_id>9CFD08D9-5EC6-41F5-8F2D-EF95E0CD879F</option_group_id>
+          <option_group_order>1</option_group_order>
+          <option_name>E-mail</option_name>
+          <option_value>2</option_value>
+        </op_77A445E2-1829-45B3-A0A4-46D81858734E>
+        <op_F5C46425-3804-4801-A174-382E7AD661E6 form_sync_id="49DB3928-6C18-4D8A-87E6-5E15D6E7A46E">
+          <option_id>F5C46425-3804-4801-A174-382E7AD661E6</option_id>
+          <option_group_id>9CFD08D9-5EC6-41F5-8F2D-EF95E0CD879F</option_group_id>
+          <option_group_order>2</option_group_order>
+          <option_name>Geen voorkeur</option_name>
+          <option_value>3</option_value>
+        </op_F5C46425-3804-4801-A174-382E7AD661E6>
+      </options>
+    </og_9CFD08D9-5EC6-41F5-8F2D-EF95E0CD879F>
+  </optionLists>
+  <version>3</version>
+  <metadata>1</metadata>
+  <date_created>2024-07-26 16:40:14</date_created>
+  <created_by>Shuxin Zhang (s.x.zhang@amsterdamumc.nl)</created_by>
+  <lookupTable/>
+  <study name="Study" guid="study"/>
+  <reports name="Repeating Data" guid="reports"/>
+  <surveys name="Surveys" guid="surveys">
+    <survey>
+      <su_E0901673-6E35-4DB0-B15B-224926DABC36 survey_id="E0901673-6E35-4DB0-B15B-224926DABC36" survey_name="Contactgegevens" survey_description="To collect contact information for participant's (or de naam en contactgegevens van uw arts)." survey_invitation="" survey_invitation_subject="" survey_send_after="0" survey_auto_send="0" survey_reminder="0" survey_required="0" survey_intro_text="Om verder te gaan, geef alstublieft uw contactgegevens in de volgende enquête." survey_outro_text="" survey_footer_text="Voor meer informatie over de studie, bezoek alstublieft www.NMCB.eu" show_step_navigator="1" allow_step_navigation="1" force_step_completion="1" survey_finish_url="" survey_sender_name="" survey_sender_address="" send_pattern="" auto_lock_on_finish="0" form_sync_id="C31889C9-EA9F-4774-BA72-16FD0807EFDB" name="Contactgegevens" guid="E0901673-6E35-4DB0-B15B-224926DABC36" stepCount="1">
+        <survey_steps>
+          <ss_3A65538F-3D28-4F3D-B660-3E70847DB237 name="Contactgegevens" rejected="0" guid="3A65538F-3D28-4F3D-B660-3E70847DB237" survey_step_number="1" survey_step_name="Contactgegevens" survey_step_description="" survey_step_footer_text="" form_numbering="visible" field_alignment="left-aligned" label_bold_if_required="true" form_sync_id="9A44324D-9C03-4B70-8271-EE183222873D">
+            <fields>
+              <fi_5EF93496-76FD-4B29-A953-D0C59F5AD1E6 form_sync_id="AFB8336E-BA96-4FA2-95D6-589B8BE34B63">
+                <parent_id>3A65538F-3D28-4F3D-B660-3E70847DB237</parent_id>
+                <field_id>5EF93496-76FD-4B29-A953-D0C59F5AD1E6</field_id>
+                <field_number>1</field_number>
+                <field_number_display>1</field_number_display>
+                <field_label>Uw e-mailadres</field_label>
+                <field_variable_name>email</field_variable_name>
+                <field_type>string</field_type>
+                <field_type_description>Textfield</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-26 11:30:32</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds>
+                  <dependencyChild_0>
+                    <field_id_parent>5EF93496-76FD-4B29-A953-D0C59F5AD1E6</field_id_parent>
+                    <field_id_child>9B98E431-F4ED-44A4-943B-A45FC9E2E5E8</field_id_child>
+                    <field_dependency_operator>!=</field_dependency_operator>
+                    <field_dependency_value>777</field_dependency_value>
+                  </dependencyChild_0>
+                </dependencyChilds>
+                <dependencyParents/>
+                <field_label_parsed>Uw e-mailadres</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_5EF93496-76FD-4B29-A953-D0C59F5AD1E6>
+              <fi_9B98E431-F4ED-44A4-943B-A45FC9E2E5E8 form_sync_id="FA26D0BB-C0A8-4570-9757-89CBFE8001F3">
+                <parent_id>3A65538F-3D28-4F3D-B660-3E70847DB237</parent_id>
+                <field_id>9B98E431-F4ED-44A4-943B-A45FC9E2E5E8</field_id>
+                <field_number>2</field_number>
+                <field_number_display>2</field_number_display>
+                <field_label>Controleer of uw e-mailadres juist is ingevoerd.</field_label>
+                <field_variable_name>email_format_check</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>var valid = 0 ;&#13;
+var emailPattern = /^[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}$/;&#13;
+var isValidEmail = emailPattern.test('{email}');&#13;
+&#13;
+if (isValidEmail) {&#13;
+ valid =1;&#13;
+} else {&#13;
+  valid  = 0;&#13;
+}</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-26 11:31:21</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="34AB689D-F122-4B60-8370-8D74C82B648B">
+                    <field_id>9B98E431-F4ED-44A4-943B-A45FC9E2E5E8</field_id>
+                    <field_validation_id>5</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>Dit is een ongeldig e-mailadres.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>0</field_validation_value>
+                  </validation_0>
+                  <validation_1 form_sync_id="9274AC54-7AEB-460F-8444-4AD2DAE37545">
+                    <field_id>9B98E431-F4ED-44A4-943B-A45FC9E2E5E8</field_id>
+                    <field_validation_id>6</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>Dit is een geldig e-mailadres.</field_validation_text>
+                    <field_validation_type>message</field_validation_type>
+                    <field_validation_value>1</field_validation_value>
+                  </validation_1>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>5EF93496-76FD-4B29-A953-D0C59F5AD1E6</field_id_parent>
+                    <field_id_child>9B98E431-F4ED-44A4-943B-A45FC9E2E5E8</field_id_child>
+                    <field_dependency_operator>!=</field_dependency_operator>
+                    <field_dependency_value>777</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>Controleer of uw e-mailadres juist is ingevoerd.</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_9B98E431-F4ED-44A4-943B-A45FC9E2E5E8>
+              <fi_506E17FC-1680-4862-ABB3-FEEE47172849 form_sync_id="E301CC04-CB1A-4822-BAD6-122539484E60">
+                <parent_id>3A65538F-3D28-4F3D-B660-3E70847DB237</parent_id>
+                <field_id>506E17FC-1680-4862-ABB3-FEEE47172849</field_id>
+                <field_number>3</field_number>
+                <field_number_display>3</field_number_display>
+                <field_label>Voer uw e-mailadres opnieuw in</field_label>
+                <field_variable_name>voer_email_opnieuw_in</field_variable_name>
+                <field_type>string</field_type>
+                <field_type_description>Textfield</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-26 16:39:34</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds>
+                  <dependencyChild_0>
+                    <field_id_parent>506E17FC-1680-4862-ABB3-FEEE47172849</field_id_parent>
+                    <field_id_child>B18A83E0-5B37-4EF4-9B5C-E0F08E142604</field_id_child>
+                    <field_dependency_operator>!=</field_dependency_operator>
+                    <field_dependency_value>777</field_dependency_value>
+                  </dependencyChild_0>
+                </dependencyChilds>
+                <dependencyParents/>
+                <field_label_parsed>Voer uw e-mailadres opnieuw in</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_506E17FC-1680-4862-ABB3-FEEE47172849>
+              <fi_B18A83E0-5B37-4EF4-9B5C-E0F08E142604 form_sync_id="A2751402-9DA1-4F26-A67E-7C4CAFDC35A0">
+                <parent_id>3A65538F-3D28-4F3D-B660-3E70847DB237</parent_id>
+                <field_id>B18A83E0-5B37-4EF4-9B5C-E0F08E142604</field_id>
+                <field_number>4</field_number>
+                <field_number_display>4</field_number_display>
+                <field_label>E-mailadressen overeenkomen?</field_label>
+                <field_variable_name>emails_overeenkomen</field_variable_name>
+                <field_type>calculation</field_type>
+                <field_type_description>Calculation</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>0</field_required>
+                <field_required_description>Not required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template>var match  = 0;&#13;
+if ('{email}' == '{voer_email_opnieuw_in}') {&#13;
+match = 1;&#13;
+}&#13;
+else {&#13;
+match = 0;&#13;
+}</field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-06-26 11:31:15</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="D2E98AA7-2297-40AC-8A6D-75A513AEDA71">
+                    <field_id>B18A83E0-5B37-4EF4-9B5C-E0F08E142604</field_id>
+                    <field_validation_id>4</field_validation_id>
+                    <field_validation_operator>==</field_validation_operator>
+                    <field_validation_text>Uw ingevoerde e-mailadressen komen overeen.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>0</field_validation_value>
+                  </validation_0>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents>
+                  <dependencyParent_0>
+                    <field_id_parent>506E17FC-1680-4862-ABB3-FEEE47172849</field_id_parent>
+                    <field_id_child>B18A83E0-5B37-4EF4-9B5C-E0F08E142604</field_id_child>
+                    <field_dependency_operator>!=</field_dependency_operator>
+                    <field_dependency_value>777</field_dependency_value>
+                  </dependencyParent_0>
+                </dependencyParents>
+                <field_label_parsed>E-mailadressen overeenkomen?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_B18A83E0-5B37-4EF4-9B5C-E0F08E142604>
+              <fi_7A1EB0BB-C60D-4A30-B3A1-2DB2B6659D17 form_sync_id="4EBAD6F5-3608-4C86-9DB4-1249C6194DDB">
+                <parent_id>3A65538F-3D28-4F3D-B660-3E70847DB237</parent_id>
+                <field_id>7A1EB0BB-C60D-4A30-B3A1-2DB2B6659D17</field_id>
+                <field_number>5</field_number>
+                <field_number_display>5</field_number_display>
+                <field_label>Uw telefoonnummer</field_label>
+                <field_variable_name>phonenumber</field_variable_name>
+                <field_type>numeric</field_type>
+                <field_type_description>Numeric field</field_type_description>
+                <field_option_group></field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>CEE61E67-1BB2-4092-808A-9B3CADF89B47</updated_by>
+                <updated_on>2024-07-03 15:27:21</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation>
+                  <validation_0 form_sync_id="573C50A8-E560-4EAB-B209-829C0E415B1D">
+                    <field_id>7A1EB0BB-C60D-4A30-B3A1-2DB2B6659D17</field_id>
+                    <field_validation_id>7</field_validation_id>
+                    <field_validation_operator>&gt;</field_validation_operator>
+                    <field_validation_text>Dit is een ongeldig telefoonnummer.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>9999999999999</field_validation_value>
+                  </validation_0>
+                  <validation_1 form_sync_id="9627655A-4969-4058-9A41-258868C84E9A">
+                    <field_id>7A1EB0BB-C60D-4A30-B3A1-2DB2B6659D17</field_id>
+                    <field_validation_id>8</field_validation_id>
+                    <field_validation_operator>&lt;</field_validation_operator>
+                    <field_validation_text>Dit is een ongeldig telefoonnummer.</field_validation_text>
+                    <field_validation_type>stop</field_validation_type>
+                    <field_validation_value>100000000</field_validation_value>
+                  </validation_1>
+                </validation>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Uw telefoonnummer</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_7A1EB0BB-C60D-4A30-B3A1-2DB2B6659D17>
+              <fi_575C2476-6A86-49ED-892D-99B871E4FD70 form_sync_id="73BBA1F6-046C-4446-A2EB-BA195ED4746E">
+                <parent_id>3A65538F-3D28-4F3D-B660-3E70847DB237</parent_id>
+                <field_id>575C2476-6A86-49ED-892D-99B871E4FD70</field_id>
+                <field_number>6</field_number>
+                <field_number_display>6</field_number_display>
+                <field_label>Heeft u een voorkeur voor hoe u contact met ons heeft?</field_label>
+                <field_variable_name>preferredcontact</field_variable_name>
+                <field_type>radio</field_type>
+                <field_type_description>Radiobutton</field_type_description>
+                <field_option_group>9CFD08D9-5EC6-41F5-8F2D-EF95E0CD879F</field_option_group>
+                <field_custom_type></field_custom_type>
+                <field_required>1</field_required>
+                <field_required_description>Required</field_required_description>
+                <field_min></field_min>
+                <field_max></field_max>
+                <field_min_label></field_min_label>
+                <field_max_label></field_max_label>
+                <field_enforce_decimals>0</field_enforce_decimals>
+                <field_length></field_length>
+                <field_inclusion></field_inclusion>
+                <field_units></field_units>
+                <field_info></field_info>
+                <field_summary_template></field_summary_template>
+                <updated_by>C5C4E3E5-0816-4903-93DB-CF4785ACD921</updated_by>
+                <updated_on>2024-07-03 13:16:10</updated_on>
+                <field_visibility></field_visibility>
+                <field_value></field_value>
+                <field_image></field_image>
+                <field_slider_step></field_slider_step>
+                <field_hidden>0</field_hidden>
+                <report_id></report_id>
+                <additional_config></additional_config>
+                <exclude_on_data_export>0</exclude_on_data_export>
+                <encryption_enabled>false</encryption_enabled>
+                <searchability_enabled>false</searchability_enabled>
+                <survey_package_id></survey_package_id>
+                <option_groups></option_groups>
+                <validation/>
+                <dependencyChilds/>
+                <dependencyParents/>
+                <field_label_parsed>Heeft u een voorkeur voor hoe u contact met ons heeft?</field_label_parsed>
+                <randomize_option_order>false</randomize_option_order>
+              </fi_575C2476-6A86-49ED-892D-99B871E4FD70>
+            </fields>
+          </ss_3A65538F-3D28-4F3D-B660-3E70847DB237>
+        </survey_steps>
+      </su_E0901673-6E35-4DB0-B15B-224926DABC36>
+    </survey>
+  </surveys>
+  <survey_packages name="Survey Packages" guid="survey_packages">
+    <survey_package>
+      <sp_AAE9AEF8-7622-4BD4-A360-D047CE50340F name="PII" guid="AAE9AEF8-7622-4BD4-A360-D047CE50340F" description="" send_after="true" auto_send="false" required="false" allow_step_navigation="true" show_step_navigator="true" force_step_completion="true" finish_url="" send_pattern="" intro_text="" outro_text="" default_invitation="Dear participant,&#13;&#10;&#13;&#10;Please click the link below to complete our survey.&#13;&#10;&#13;&#10;{url}" default_invitation_subject="PII" sender_name="Castor EDC" sender_email="no-reply@castoredc.com" auto_lock_on_finish="true" is_mobile="false" is_training="false" is_repeatable="false" is_resumable="false" as_needed="false" field_pagination="none" expire_after_hours="" form_sync_id="AD1AD516-D6C4-4192-B572-25799AE82CBC" allow_open_survey_link="true">
+        <survey>E0901673-6E35-4DB0-B15B-224926DABC36</survey>
+      </sp_AAE9AEF8-7622-4BD4-A360-D047CE50340F>
+    </survey_package>
+  </survey_packages>
+  <domains/>
+  <export_type>all</export_type>
+</xml>
