@@ -8,7 +8,5 @@ text = w1 + '\n' + w2 + '\n' + w3 + '\n' +  w4;
 
 text;
 
-
-
 var text = "hello";
 text;
