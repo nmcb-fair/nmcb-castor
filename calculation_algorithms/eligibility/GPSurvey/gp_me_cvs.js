@@ -7,7 +7,7 @@ if ('{eligible_parti_gp_survey}' == 1){
     eligible_everyone = 0;
 }
 
-// 1.3 = 1 = A04.01: chronisch vermoeidheidssyndroom (ME/CVS)
+// 1.4 = 1 = A04.01: chronisch vermoeidheidssyndroom (ME/CVS)
 var gp_diag_me_cvs = 0;
 var splitted = '{gp_diagnosis_inclusion}'.split(';');
 if (splitted.indexOf("1") > -1) {

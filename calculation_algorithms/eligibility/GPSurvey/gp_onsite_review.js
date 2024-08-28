@@ -8,7 +8,7 @@ else{
     gp_diag_ex_other += 0
 };
 
-// 1.6 = 10 = Anders
+// Q7 Medication = Anders
 var gp_med_history = 0;
 var splitted = "{gp_meds01}".split(';');
 if (splitted.indexOf("10") > -1) {

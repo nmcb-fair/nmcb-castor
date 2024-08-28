@@ -7,7 +7,7 @@ if ('{eligible_parti_gp_survey}' == 1){
     eligible_everyone = 0;
 }
 
-// 1.3 = 0 = Geen van onderstaande
+// Q4 Your patient has ever been diagnosed with one of the following = 0 = None
 var gp_diag_none = 0;
 if ('{gp_diagnosis_inclusion}' == 0){
     gp_diag_none = 1;
